@@ -1,1 +1,3 @@
-# Local1337
+# School tech assignment
+
+Alex, Elijah, Isaac
